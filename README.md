@@ -4,7 +4,7 @@
 </p>
 
 #### About Me
-Building iOS apps and web apps. View projects on gitHub or [here](https://caomai.live/)
+Building iOS and web apps. View projects on gitHub or [here](https://caomai.live/)
 
 <!--
 **caocmai/caocmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
