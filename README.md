@@ -6,7 +6,7 @@
 #### About Me
 Building iOS and web apps. View projects on gitHub or on [my site](https://caomai.live/)
 
-### Connect With Me
+#### Connect With Me
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
