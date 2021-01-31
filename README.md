@@ -6,10 +6,18 @@
 #### About Me
 Building iOS and web apps. View projects on gitHub or on [my site](https://caomai.live/)
 
+### Connect With Me
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](www.google.com)
+
 <br/>
 <br/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=caocmai.caocmai)
+
+
+
+[linkedin]: https://www.linkedin.com/in/caocmai/
 
 
 <!--
