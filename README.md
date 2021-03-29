@@ -9,7 +9,8 @@ Building iOS and web apps. View projects on gitHub or on [my site](https://caoma
 
 #### Connect With Me
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="caocmai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="right" alt="caocmai | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/medium.svg" />][medium]
 
 <br/>
 <br/>
@@ -17,8 +18,8 @@ Building iOS and web apps. View projects on gitHub or on [my site](https://caoma
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=caocmai.caocmai)
 
 
-
 [linkedin]: https://www.linkedin.com/in/caocmai/
+[medium]: https://cao-mai.medium.com/
 
 
 <!--
