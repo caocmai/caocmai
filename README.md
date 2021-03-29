@@ -10,7 +10,7 @@ Building iOS and web apps. View projects on gitHub or on [my site](https://caoma
 #### Connect With Me
 
 [<img align="left" alt="caocmai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="right" alt="caocmai | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/medium.svg" />][medium]
+[<img align="left" alt="caocmai | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/medium.svg" />][medium]
 
 <br/>
 <br/>
