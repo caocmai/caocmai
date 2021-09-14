@@ -3,10 +3,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=caocmai&show_icons=true&title_color=fff&icon_color=ffbb00&text_color=9f9f9f&bg_color=151515" alt="my github stats" width="445"/>
 </p> 
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ellojess&show_icons=true&title_color=fff&icon_color=F8738D&text_color=9f9f9f&bg_color=151515" alt="my github stats" height="176"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caocmai&layout=compact&show_icons=true&title_color=fff&icon_color=fc8930&text_color=9f9f9f&bg_color=151515" alt="languages" height="176">
-</p>
-
 #### About Me
 I enjoy working with other people to solve coding problems or develop projects. I like to build user friendly iOS and web apps or various tools to eliminate tedious/repetitive tasks. View projects on gitHub or on [my site](https://caomai.live/)
 
