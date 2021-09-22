@@ -4,7 +4,7 @@
 </p> 
 
 #### About Me
-I enjoy working with other people to solve coding problems or develop projects. I like to build user friendly iOS and web apps or various tools to eliminate tedious/repetitive tasks. View projects on gitHub or on [my site](https://caomai.live/)
+I enjoy working with other people to solve coding problems or develop projects. I like to build user friendly iOS and web apps or various tools to eliminate tedious/repetitive tasks. View projects on gitHub or on [my site](https://caomai.live/).
 
 #### Connect With Me
 
